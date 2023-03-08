@@ -6,6 +6,7 @@ public class tarea {
 		 
 		System.out.println("Primer comando en tarea");
 		System.out.println("Segundo comando en tarea");
+		System.out.println("Primer comando en rama1");
 	}
 
 }
